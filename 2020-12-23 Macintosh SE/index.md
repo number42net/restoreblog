@@ -136,6 +136,10 @@ A 3D printed bracket I designed is used to hold a CR2032 battery in the slot lef
 
 ![3D render of bracket](screenshot1.png)
 
+Here is the bracket installed with a CR2032 battery installed:
+
+![Battery bracket installed](IMG_20210114_133750.jpg)
+
 ## Keyboard
 
 The keyboard was a bit yellowed, but most of all it needed a proper deep clean to get years of dirt out of it.
@@ -155,3 +159,14 @@ Next was removing the yellowing of the plastic, on this particular keyboard both
 And then the keyboard in all of its clean platinum glory.
 
 ![Keyboard done](IMG_20210113_161534.jpg)
+
+## Mouse
+
+This mouse had a faulty micro switch which stopped the button from functioning properly and springing back. Luckily the same
+microswitches are still used today, and it was easily swapped out.
+
+![Mouse micro switch](IMG_20201209_171250.jpg)
+
+After fully cleaning and de-yellowing:
+
+![Mouse done](IMG_20210114_133547.jpg)
