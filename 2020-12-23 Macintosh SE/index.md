@@ -135,3 +135,23 @@ Before adding heat shrink tube and hot glue for strain relief:
 A 3D printed bracket I designed is used to hold a CR2032 battery in the slot left open after the network card was removed:
 
 ![3D render of bracket](screenshot1.png)
+
+## Keyboard
+
+The keyboard was a bit yellowed, but most of all it needed a proper deep clean to get years of dirt out of it.
+
+![Keyboard before cleaning](IMG_20210107_150819.jpg)
+
+Here is a picture after fully disassembling and cleaning the keyboard.
+
+![Keyboard disassembled](IMG_20210107_170338.jpg)
+
+Next was removing the yellowing of the plastic, on this particular keyboard both the keys and the case were quite discoloured.
+
+![Before de-yellowing](IMG_20210113_113736.jpg)
+
+![After de-yellowing](IMG_20210113_150426.jpg)
+
+And then the keyboard in all of its clean platinum glory.
+
+![Keyboard done](IMG_20210113_161534.jpg)
