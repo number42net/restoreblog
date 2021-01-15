@@ -14,13 +14,12 @@ Let's see if I can turn this yellow duckling into a beautiful ~~white swan~~ pla
 * Hard disk indicator LED replacement
 * Floppy drive cleaning and libration
 * Purposely no re-capping as the capacitors in this model are not prone to failure. Capacitors were inspected and tested instead.
-* Colour restoration of the plastic
+* Colour restoration of all external plastics
 * Fully reversible external battery modification
 
 ##### Todo list:
 
 * Re-installation
-* Keyboard and mouse clean up
 
 ## Exterior inspection:
 
