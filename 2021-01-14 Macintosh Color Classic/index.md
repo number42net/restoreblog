@@ -42,6 +42,7 @@ After cleaning off all the electrolyte from the leaking capacitors and fully ins
 to power on the Mac. 
 
 I plugged in the power, flipped the power switch, pressed the power button on the keyboard and.... absolutely nothing happened. 
+
 This could mean 1 of 2 things, either there were more issues with this Mac, or there's something wrong with the keyboard. 
 I grabbed another keyboard I had lying around, and it powered up on the "first" attempt!
 
