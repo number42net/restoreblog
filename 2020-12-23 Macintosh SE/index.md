@@ -19,9 +19,12 @@ Overall the condition was decent, the machine was very dirty and yellowed, but t
 ##### Completed pictures:
 
 ![Front view](image-0001.jpg)
+
 ![Keyboard and mouse](image-0002.jpg)
-![Side view](image-003.jpg)
-![Rear view](image-004.jpg)
+
+![Side view](image-0003.jpg)
+
+![Rear view](image-0004.jpg)
 
 # Restoration process:
 
