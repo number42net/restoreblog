@@ -1,10 +1,8 @@
 # Macintosh SE
 
-I purchased this computer in a lot together with a Macintosh II Classic. It was sold as working, but after I turned it on for the first time I found that the hard disk was faulty. 
+I purchased this computer in a lot together with a Macintosh II Classic. It was sold as working, but after I turned it on for the first time I found that the hard disk was faulty.
 
 Overall the condition was decent, the machine was very dirty and yellowed, but technically in very good condition. All the capacitors checked out and aside from the hard disk and the battery no repairs were needed.
-
-Let's see if I can turn this yellow duckling into a beautiful ~~white swan~~ platinum Macintosh.
 
 ##### Work done:
 
@@ -16,14 +14,22 @@ Let's see if I can turn this yellow duckling into a beautiful ~~white swan~~ pla
 * Purposely no re-capping as the capacitors in this model are not prone to failure. Capacitors were inspected and tested instead.
 * Colour restoration of all external plastics
 * Fully reversible external battery modification
+* Re-installation of the OS and software
 
-##### Todo list:
+##### Completed pictures:
 
-* Re-installation
+![Front view](image-0001.jpg)
+![Keyboard and mouse](image-0002.jpg)
+![Side view](image-003.jpg)
+![Rear view](image-004.jpg)
 
-## Exterior inspection:
+# Restoration process:
 
-This machine was very yellowed and dirty, after a full clean it was already a few tints lighter. 
+Below is a description of all the work done on this Macintosh SE, starting with an inspection of all the parts.
+
+## Exterior inspection :
+
+This machine was very yellowed and dirty, after a full clean it was already a few tints lighter.
 
 ![Front before cleaning](IMG_20201223_112723.jpg)
 
@@ -31,7 +37,7 @@ In the back I found a 10BASE-2 network card installed (more on this below):
 
 ![Back before cleaning](IMG_20201223_112745.jpg)
 
-Plenty of scuff marks all around, luckily I was able to clean all of them off. 
+Plenty of scuff marks all around, luckily I was able to clean all of them off.
 
 ![Left side before cleaning](IMG_20201223_112758.jpg)
 
@@ -67,7 +73,7 @@ The analogue board fresh out of the case with lots of caked on dust:
 
 ![Analogue board before cleaning](IMG_20201223_195446.jpg)
 
-The same board after thorough cleaning: 
+The same board after thorough cleaning:
 
 ![Analogue board after cleaning](IMG_20201223_203112.jpg)
 
@@ -107,7 +113,7 @@ I found the following replacement hard disk:
 
 ![New HDD back](IMG_20210101_152716.jpg)
 
-Using the replacement hard disk it booted into a Dutch System 7.0.1 without any issues: 
+Using the replacement hard disk it booted into a Dutch System 7.0.1 without any issues:
 
 ![Happy Mac](IMG_20201223_122605.jpg)
 
@@ -119,13 +125,13 @@ After replacing the hard disk the activity indicator still wouldn't light, I rep
 
 ## External battery modification
 
-Although the original battery had not yet started to leak, it was already well below 1v. I replaced it with an externally accessible CR2032 battery. This way it's easy to remove the battery for long term storage and even if it leaks it won't affect the board.
+Although the original battery had not yet started to leak, it was already well below 1v. If the battery leaks while installed in the logic board it can cause irepr I replaced it with an externally accessible CR2032 battery. This way it's easy to remove the battery for long term storage and even if it leaks it won't affect the board.
 
 Here is the original battery for reference:
 
 ![Original battery](IMG_20210101_173212.jpg)
 
-I soldered new wires directly to the clipped battery leads with an 1N5819 Schottky diode inline. Although this Macintosh should not charge the battery,  it never hurts to add a bit extra safety. 
+I soldered new wires directly to the clipped battery leads with a Schottky diode inline. Although this Macintosh should not charge the battery,  it never hurts to add a bit extra safety. (note: the Schottky diode was later removed because it dropped the voltage to low)
 
 Before adding heat shrink tube and hot glue for strain relief:
 
