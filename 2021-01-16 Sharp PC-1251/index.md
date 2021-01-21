@@ -20,12 +20,12 @@ CE-125 were starting to corrode, the printer printed very faded and microcassett
 
 The unit is stored in this really nice vinyl case:
 
-![CE-125 Case closed](IMG_20210116_172144.jpg)
+![CE-125 Case closed](IMG_20210116_172121.jpg)
 
 When opened it reveals the CE-125 dock with the PC-1251 microcomputer installed and a small
 storage compartment on the side for cables, paper, etc.
 
-![CE-125 Case opened](IMG_20210116_172121.jpg)
+![CE-125 Case opened](IMG_20210116_172144.jpg)
 
 ![CE-125 Removed from case](IMG_20210116_172207.jpg)
 
@@ -60,15 +60,15 @@ The battery was already starting to leak, but luckily I was still on time to rem
 
 ![CE-125 battery corrosion](IMG_20210116_174156.jpg)
 
+![CE-125 Original battery](IMG_20210116_195454.jpg)
+
 On the top of the unit I found this mystery connector. The manual refers to it as a test connector
 but there is a holder for the cover on the bottom, which makes me suspect that it was maybe initially
 intended as another expansion port.
 
 ![CE-125 mystery connector](IMG_20210116_174412.jpg)
 
-![CE-125 Original battery](IMG_20210116_195454.jpg)
-
-While testing, I found that the cassette unit didn't work at all, the reels were not turning at all. After
+While testing, I found that the cassette unit didn't work, the reels were not turning at all. After
 removing it and turning it around it was pretty obvious why, the main drive belt had completely degraded
 to the point it just fell apart.
 
@@ -80,6 +80,6 @@ to the point it just fell apart.
 
 After some research I found the original power brick is the Sharp EA-23E which supplies 8.5v DC.
 
-The DC barrel jack is **centre negative!** which makes it incompatible with most current DC power supplies.
+The DC barrel jack is **centre negative** which makes it incompatible with most current DC power supplies.
 
 The internal battery should supply around 4.8v.
