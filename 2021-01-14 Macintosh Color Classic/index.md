@@ -1,7 +1,7 @@
 # Macintosh Color Classic
 
-I purchased this Macintosh as faulty / not powering on. I was worried to find significant damage like on the 
-Classic II I did recently, but after a good cleaning I found that only the keyboard was faulty.
+I purchased this Macintosh as faulty / not powering on. I was worried to find significant damage like on the
+Classic II I worked on recently, but after a good cleaning I found that only the keyboard was faulty.
 
 ## Work done so far: 
 
@@ -21,8 +21,11 @@ Classic II I did recently, but after a good cleaning I found that only the keybo
 The case is very dirty and quite yellowed, looks like I have quite the task ahead of me:
 
 ![Front](IMG_20210114_171328.jpg)
+
 ![Back](IMG_20210114_171404.jpg)
+
 ![Side 1](IMG_20210114_171422.jpg)
+
 ![Side 2](IMG_20210114_171434.jpg)
 
 ## Logic board inspection:
@@ -30,6 +33,7 @@ The case is very dirty and quite yellowed, looks like I have quite the task ahea
 Here is the logic board fresh out of the case:
 
 ![Logic board dirty](IMG_20210114_171900.jpg)
+
 ![Logic board back](IMG_20210114_171911.jpg)
 
 After some initial cleaning, mainly for my self as a reference for the capacitors:

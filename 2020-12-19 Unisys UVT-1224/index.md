@@ -8,11 +8,18 @@ One option I'm considering is to connect it to a Raspberry Pi or similar device 
 Although it will definitely need a new keyboard for that. The current one functions perfectly but is not very comfortable to type on,
 not to mention its size.
 
+Another option would be adapting the ESP32 based PDP11 emulator made by [Spritesmods](http://spritesmods.com/?art=minipdp11)
+to use the serial port again, or going the easier route and just run the [SimH](http://simh.trailing-edge.com/) PDP11 emulator on a
+Raspberry Pi.
+
+Here I'm watching the ASCII version of Star Wars: A new Hope from [towel.blinkenlights.nl](telnet://towel.blinkenlights.nl) (telnet)
+through a serial link to my laptop:
+
 ![Front view](IMG_20201220_164903.jpg)
 
 ## Work done so far: 
 
-* Full clean-up and inspection
+* Initial clean-up and inspection
 * Battery removal
 * Keyboard reverse engineering
 * Performance testing
@@ -36,7 +43,7 @@ straight away.
 
 The signal consists of 9 bits, the first is a start bit, the remaining 8 indicate the scan code. 
 
-[Signal](https://raw.githubusercontent.com/number42net/uvt-1224/main/images/protocol.png)
+![Signal](https://raw.githubusercontent.com/number42net/uvt-1224/main/images/protocol.png)
 
 Using this information I wrote a small [Arduino program](https://github.com/number42net/uvt-1224/blob/main/source/read_keyboard.ino) 
 to read and display the scan codes. Resulting in a [map](https://github.com/number42net/uvt-1224/blob/main/scancodes.md) of all scan codes.
@@ -45,3 +52,11 @@ Once done I wrote another small Arduino program to generate the clock signal and
 which succeeded. I'm now ready to build an interface for a replacement keyboard.
 
 Unfortunately I didn't save the last program, but it would be pretty easy to recreate.
+
+## Battery replacement
+
+Here is a picture of the PCB with the battery still installed:
+
+![PCB](IMG_20201219_181000.jpg)
+
+I have already removed the battery and the plan is to place the new battery away from the PCB to prevent corosion in the future.
