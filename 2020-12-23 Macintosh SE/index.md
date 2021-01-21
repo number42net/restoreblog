@@ -10,7 +10,7 @@ Overall the condition was decent, the machine was very dirty and yellowed, but t
 * Deep cleaning inside and out
 * Hard disk replacement
 * Hard disk indicator LED replacement
-* Floppy drive cleaning and libration
+* Floppy drive cleaning and lubrication
 * Purposely no re-capping as the capacitors in this model are not prone to failure. Capacitors were inspected and tested instead.
 * Colour restoration of all external plastics
 * Fully reversible external battery modification
