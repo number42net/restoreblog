@@ -40,6 +40,7 @@ And here it is with the electronics working:
 This is also the moment that I remembered hearing some crunchy noises the last time it ran and as you can see the small gear which makes Elmo shake around of joy had broken off completely:
 
 ![Missing gear](IMG_20210207_152241.jpg)
+
 ![Broken gear](IMG_20210207_151127.jpg)
 
 Here are the specs of the gear in case you run into the same issue:
