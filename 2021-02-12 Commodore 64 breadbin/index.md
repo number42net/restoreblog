@@ -108,7 +108,7 @@ I connected everything up and played a quick round of Landing on TB19 with my so
 
 ## Case repair
 
-As mentioned above, when I opened the case I managed to break off the last remaining hinge on the back of the case. Luckily there are great 3D designs ![available](https://www.thingiverse.com/thing:3092874), I printed a set and glued them in place:
+As mentioned above, when I opened the case I managed to break off the last remaining hinge on the back of the case. Luckily there are great 3D designs [available](https://www.thingiverse.com/thing:3092874), I printed a set and glued them in place:
 
 ![New hinge front](IMG_20210214_171244.jpg)
 
