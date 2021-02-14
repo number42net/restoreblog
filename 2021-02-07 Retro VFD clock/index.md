@@ -18,12 +18,14 @@ Then I came across these amazing Russian IV-18 VFD (Vacuum Florescend Display) t
 
 ## Initial reseach
 
+Below are some of my research notes on the tube and driver IC, these are likely to change over time.
+
 ### IV-18 tube
 
 ![IV-18](iv18-ebay.jpg)
 
-Grid voltage: 20-30v DC
-Filament voltage: 3-5v DC
++ Grid voltage: 20-30v DC
++ Filament voltage: 3-5v DC
 
 ### Driver IC
 
