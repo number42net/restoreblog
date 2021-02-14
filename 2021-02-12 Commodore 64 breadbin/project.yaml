@@ -6,6 +6,6 @@ project:
   thumbnail: IMG_20210214_193656.jpg
   description:
     - "Bought in unknown condition"
-    - "+ C64 was working perfectly"
-    - "+ 1541 drive faulty"
-    - "+ Datacasette cover missing"
+    - "- C64 was working perfectly"
+    - "- 1541 drive faulty"
+    - "- Datacasette cover missing"
