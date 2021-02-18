@@ -24,8 +24,9 @@ Below are some of my research notes on the tube and driver IC, these are likely 
 
 ![IV-18](iv18-ebay.jpg)
 
-+ Grid voltage: 20-30v DC
++ Grid voltage: 20-30v DC should work, but AC might be better.
 + Filament voltage: 3-5v DC
++ Lifespan: Unknown, various sources claim different numbers
 
 ### Driver IC
 
