@@ -75,4 +75,4 @@ R72 ?? -->
 
 And here is the result, a perfectly working Macintosh Classic II!
 
-![Booting](IMG_20210218_201000.jpg
+![Booting](IMG_20210218_201000.jpg)
