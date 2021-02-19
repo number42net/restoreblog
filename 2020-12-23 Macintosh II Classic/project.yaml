@@ -3,6 +3,6 @@ project:
   name: Macintosh Classic II
   status: In progress
   start_date: "2020-20-30"
-  thumbnail: IMG_20201223_105349.jpg
+  thumbnail: img_001.jpg
   description:
     - "Leaking capacitors caused damage on the main board"

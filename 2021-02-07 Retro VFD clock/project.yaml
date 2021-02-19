@@ -3,6 +3,6 @@ project:
   name: Retro VFD clock
   status: In progress
   start_date: "2021-02-07"
-  thumbnail: exampleclock.jpg
+  thumbnail: img_001.jpg
   description:
     - "Designing and building a clock using a Russian IV-18 VFD tube"
