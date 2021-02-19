@@ -20,13 +20,13 @@ Classic II I worked on recently, but after a good cleaning I found that only the
 
 The case is very dirty and quite yellowed, looks like I have quite the task ahead of me:
 
-![Front](IMG_20210114_171328.jpg)
+![Front](img_001.jpg)
 
-![Back](IMG_20210114_171404.jpg)
+![Back](img_002.jpg)
 
-![Side 1](IMG_20210114_171422.jpg)
+![Side 1](img_003.jpg)
 
-![Side 2](IMG_20210114_171434.jpg)
+![Side 2](img_004.jpg)
 
 ## First boot
 
@@ -44,17 +44,17 @@ It was only powered on for a very short while, but I could notice straight away 
 
 Here is the logic board fresh out of the case:
 
-![Logic board dirty](IMG_20210114_171900.jpg)
+![Logic board dirty](img_005.jpg)
 
-![Logic board back](IMG_20210114_171911.jpg)
+![Logic board back](img_006.jpg)
 
 After some initial cleaning:
 
-![Logic board ](IMG_20210114_173546.jpg)
+![Logic board ](img_007.jpg)
 
 And after replacing all electrolytic capacitors and a full cleaning:
 
-![Logic board recapped](IMG_20210217_162025.jpg)
+![Logic board recapped](img_008.jpg)
 
 When I powered it on again I was straight away greeted by the proper chime and a quick game of Lemmings confirmed that the sound is working perfectly again as well!
 
@@ -62,4 +62,4 @@ When I powered it on again I was straight away greeted by the proper chime and a
 
 And here is the analogue board, ready for capacitor replacement as well:
 
-![Analogue board](IMG_20210215_192326.jpg)
+![Analogue board](img_009.jpg)

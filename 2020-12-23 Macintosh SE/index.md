@@ -18,13 +18,15 @@ Overall the condition was decent, the machine was very dirty and yellowed, but t
 
 ##### Completed pictures:
 
-![Front view](image-0001.jpg)
+![Front view](img_001.jpg)
 
-![Keyboard and mouse](image-0002.jpg)
+![Keyboard and mouse](img_002.jpg)
 
-![Side view](image-0003.jpg)
+![Side view](img_003.jpg)
 
-![Rear view](image-0004.jpg)
+![Rear view](img_004.jpg)
+
+![Inside](img_039.jpg)
 
 # Restoration process:
 
@@ -34,97 +36,97 @@ Below is a description of all the work done on this Macintosh SE, starting with 
 
 This machine was very yellowed and dirty, after a full clean it was already a few tints lighter.
 
-![Front before cleaning](IMG_20201223_112723.jpg)
+![Front before cleaning](img_005.jpg)
 
 In the back I found a 10BASE-2 network card installed (more on this below):
 
-![Back before cleaning](IMG_20201223_112745.jpg)
+![Back before cleaning](img_006.jpg)
 
 Plenty of scuff marks all around, luckily I was able to clean all of them off.
 
-![Left side before cleaning](IMG_20201223_112758.jpg)
+![Left side before cleaning](img_007.jpg)
 
-![Right side before cleaning](IMG_20201223_112811.jpg)
+![Right side before cleaning](img_008.jpg)
 
 The bottom was the only part still showing the original colour of the plastic:
 
-![Bottom before cleaning](IMG_20201223_112829.jpg)
+![Bottom before cleaning](img_009.jpg)
 
 ## Internal inspection and cleaning:
 
 In these pictures you can see the logic board the way it came out of the machine, with and without the network card installed:
 
-![Logic board and network card](IMG_20201223_114057.jpg)
+![Logic board and network card](img_010.jpg)
 
 The memory was already maxed out with 4MB installed, together with a full load of dust:
 
-![Logic board and network card disconnected](IMG_20201223_114202.jpg)
+![Logic board and network card disconnected](img_011.jpg)
 
 The logic board cleaned up very nice:
 
-![Logic board front - Clean](IMG_20201223_115308.jpg)
+![Logic board front - Clean](img_012.jpg)
 
 No obvious evidence of previous repairs:
 
-![Logic board back - Clean](IMG_20201223_115436.jpg)
+![Logic board back - Clean](img_013.jpg)
 
 This is the Dynaport E/SE 10BASE-2 network adapter. I haven't re-installed this board since it doesn't support 10BASE-T, making it pretty useless in the modern world:
 
-![Network card](IMG_20201223_120708.jpg)
+![Network card](img_014.jpg)
 
 The analogue board fresh out of the case with lots of caked on dust:
 
-![Analogue board before cleaning](IMG_20201223_195446.jpg)
+![Analogue board before cleaning](img_015.jpg)
 
 The same board after thorough cleaning:
 
-![Analogue board after cleaning](IMG_20201223_203112.jpg)
+![Analogue board after cleaning](img_016.jpg)
 
 The CRT connector board after cleaning and testing:
 
-![CRT board](IMG_20201223_203735.jpg)
+![CRT board](img_017.jpg)
 
 The power supply:
 
-![Power supply closed](IMG_20201223_203909.jpg)
+![Power supply closed](img_018.jpg)
 
-![Power supply open](IMG_20201223_204205.jpg)
+![Power supply open](img_019.jpg)
 
 ## Floppy drive cleaning:
 
 The floppy drive was in quite a state when I took it out, these models lack the dust flap usually found on PCs, and it shows:
 
-![Floppy drive before cleaning](IMG_20201223_155458.jpg)
+![Floppy drive before cleaning](img_020.jpg)
 
 Fully disassembled:
 
-![Floppy drive disassembled](IMG_20201223_163611.jpg)
+![Floppy drive disassembled](img_021.jpg)
 
 Fully cleaned, lubed and ready for re-assembly:
 
-![Floppy drive disassembled cleaned and lubed](IMG_20201223_173632.jpg)
+![Floppy drive disassembled cleaned and lubed](img_022.jpg)
 
 ## Hard disk replacement:
 
 Upon first boot I found that the original hard disk's heads were seized. Unfortunately this hard disk could not be saved:
 
-![Old HDD](IMG_20201223_140955.jpg)
+![Old HDD](img_023.jpg)
 
 I found the following replacement hard disk:
 
-![New HDD front](IMG_20210101_152707.jpg)
+![New HDD front](img_024.jpg)
 
-![New HDD back](IMG_20210101_152716.jpg)
+![New HDD back](img_025.jpg)
 
 Using the replacement hard disk it booted into a Dutch System 7.0.1 without any issues:
 
-![Happy Mac](IMG_20201223_122605.jpg)
+![Happy Mac](img_026.jpg)
 
 ## Hard disk activity indicator replacement:
 
 After replacing the hard disk the activity indicator still wouldn't light, I replaced it with a similar style LED with an inline resistor to ensure longevity:
 
-![Drive cage assembled and LED light replaced](IMG_20210101_172857.jpg)
+![Drive cage assembled and LED light replaced](img_027.jpg)
 
 ## External battery modification
 
@@ -132,49 +134,49 @@ Although the original battery had not yet started to leak, it was already well b
 
 Here is the original battery for reference:
 
-![Original battery](IMG_20210101_173212.jpg)
+![Original battery](img_028.jpg)
 
 I soldered new wires directly to the clipped battery leads with a Schottky diode inline. Although this Macintosh should not charge the battery,  it never hurts to add a bit extra safety. (note: the Schottky diode was later removed because it dropped the voltage to low)
 
 Before adding heat shrink tube and hot glue for strain relief:
 
-![Battery wiring](IMG_20210101_183803.jpg)
+![Battery wiring](img_029.jpg)
 
 A 3D printed bracket I designed is used to hold a CR2032 battery in the slot left open after the network card was removed:
 
-![3D render of bracket](screenshot1.png)
+![3D render of bracket](img_030.png)
 
 Here is the bracket installed with a CR2032 battery installed:
 
-![Battery bracket installed](IMG_20210114_133750.jpg)
+![Battery bracket installed](img_031.jpg)
 
 ## Keyboard
 
 The keyboard was a bit yellowed, but most of all it needed a proper deep clean to get years of dirt out of it.
 
-![Keyboard before cleaning](IMG_20210107_150819.jpg)
+![Keyboard before cleaning](img_032.jpg)
 
 Here is a picture after fully disassembling and cleaning the keyboard.
 
-![Keyboard disassembled](IMG_20210107_170338.jpg)
+![Keyboard disassembled](img_033.jpg)
 
 Next was removing the yellowing of the plastic, on this particular keyboard both the keys and the case were quite discoloured.
 
-![Before de-yellowing](IMG_20210113_113736.jpg)
+![Before de-yellowing](img_034.jpg)
 
-![After de-yellowing](IMG_20210113_150426.jpg)
+![After de-yellowing](img_035.jpg)
 
 And then the keyboard in all of its clean platinum glory.
 
-![Keyboard done](IMG_20210113_161534.jpg)
+![Keyboard done](img_036.jpg)
 
 ## Mouse
 
 This mouse had a faulty micro switch which stopped the button from functioning properly and springing back. Luckily the same
 microswitches are still used today, and it was easily swapped out.
 
-![Mouse micro switch](IMG_20201209_171250.jpg)
+![Mouse micro switch](img_037.jpg)
 
 After fully cleaning and de-yellowing:
 
-![Mouse done](IMG_20210114_133547.jpg)
+![Mouse done](img_038.jpg)

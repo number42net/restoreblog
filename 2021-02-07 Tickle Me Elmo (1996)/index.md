@@ -4,7 +4,7 @@ I originally bought this on eBay for the huge sum of £1.71 in 2007 as a fun dec
 
 But after taking it from the shelf, I discovered I had left batteries in it, and Elmo's innards were filled with electrolyte crystals.
 
-![Batteries](IMG_20210207_105216.jpg)
+![Batteries](img_001.jpg)
 
 ## Work done so far: 
 
@@ -19,17 +19,17 @@ But after taking it from the shelf, I discovered I had left batteries in it, and
 
 After opening everything up, it was just getting worse:
 
-![Battery connector](IMG_20210207_105235.jpg)
+![Battery connector](img_002.jpg)
 
 And worse:
 
-![Board damage](IMG_20210207_105332.jpg)
+![Board damage](img_003.jpg)
 
 ## Board repair
 
 I first soaked the board in vinegar for a while to neutralize the base electrolyte and reverse the corrosion. After this a few large traces were left completely exposed. I decided to protect these by tinning them. 
 
-![Repaired board](IMG_20210207_150657.jpg)
+![Repaired board](img_004.jpg)
 
 Normally the best solution would be to apply some lacquer or liquid PCB solder resist, but for this simple board it's more than sufficient. 
 
@@ -39,9 +39,9 @@ And here it is with the electronics working:
 
 This is also the moment that I remembered hearing some crunchy noises the last time it ran and as you can see the small gear which makes Elmo shake around of joy had broken off completely:
 
-![Missing gear](IMG_20210207_152241.jpg)
+![Missing gear](img_005.jpg)
 
-![Broken gear](IMG_20210207_151127.jpg)
+![Broken gear](img_006.jpg)
 
 Here are the specs of the gear in case you run into the same issue:
 + Gears: 9
@@ -50,4 +50,4 @@ Here are the specs of the gear in case you run into the same issue:
 
 I've ordered a replacement gear. It will probably take a while before it arrives, so in the meantime here is already one happy girl with her new toy:
 
-![Holding Elmo](IMG_20210207_161933.jpg)
+![Holding Elmo](img_007.jpg)

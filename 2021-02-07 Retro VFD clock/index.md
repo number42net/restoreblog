@@ -4,7 +4,7 @@ I've been wanting to build a clock for a few years already, initially using Nixi
 
 Then I came across these amazing Russian IV-18 VFD (Vacuum Florescend Display) tubes and decided they would make for a perfect clock.
 
-![Example](exampleclock.jpg)
+![Example](img_001.jpg)
 
 ## Work done so far: 
 
@@ -22,7 +22,7 @@ Below are some of my research notes on the tube and driver IC, these are likely 
 
 ### IV-18 tube
 
-![IV-18](iv18-ebay.jpg)
+![IV-18](img_002.jpg)
 
 + Grid voltage: 20-30v DC should work, but AC might be better.
 + Filament voltage: 3-5v DC
@@ -30,10 +30,10 @@ Below are some of my research notes on the tube and driver IC, these are likely 
 
 ### Driver IC
 
-![MAX6921AWI](MAX6921AWI.jpg)
+![MAX6921AWI](img_003.jpg)
 
 I've chosen the MAX6921AWI VFD driver IC, mainly because it has sufficient pins to drive all segments and is still reasonably easy to solder. 
 
 ### Example circuit
 
-![Circuit](max6921_-_IV18.png)
+![Circuit](img_004.png)

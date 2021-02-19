@@ -15,7 +15,7 @@ Raspberry Pi.
 Here I'm watching the ASCII version of Star Wars: A new Hope from [towel.blinkenlights.nl](telnet://towel.blinkenlights.nl) (telnet)
 through a serial link to my laptop:
 
-![Front view](IMG_20201220_164903.jpg)
+![Front view](img_001.jpg)
 
 ## Work done so far: 
 
@@ -53,10 +53,16 @@ which succeeded. I'm now ready to build an interface for a replacement keyboard.
 
 Unfortunately I didn't save the last program, but it would be pretty easy to recreate.
 
+And here are some pictures of the keyboard controller PCB:
+
+![Keyboard top](img_003.jpg)
+
+![Keyboard bottom](img_004.jpg)
+
 ## Battery replacement
 
 Here is a picture of the PCB with the battery still installed:
 
-![PCB](IMG_20201219_181000.jpg)
+![PCB](img_002.jpg)
 
 I have already removed the battery and the plan is to place the new battery away from the PCB to prevent corosion in the future.

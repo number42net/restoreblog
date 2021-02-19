@@ -30,61 +30,61 @@ I've added the following information to my [GitHub](https://github.com/number42n
 
 The unit is stored in this really nice vinyl case:
 
-![CE-125 Case closed](IMG_20210116_172121.jpg)
+![CE-125 Case closed](img_001.jpg)
 
 When opened it reveals the CE-125 dock with the PC-1251 microcomputer installed and a small
 storage compartment on the side for cables, paper, etc.
 
-![CE-125 Case opened](IMG_20210116_172144.jpg)
+![CE-125 Case opened](img_002.jpg)
 
-![CE-125 Removed from case](IMG_20210116_172207.jpg)
+![CE-125 Removed from case](img_003.jpg)
 
 This is the back of the CE-125, notice the two slots where plastic covers can be inserted while in use.
 Here the PC-1251 cover is installed.
 
-![CE-125 Back](IMG_20210116_172219.jpg)
+![CE-125 Back](img_004.jpg)
 
 Here is the side of the unit, it didn't come with a charger, so I would have to figure out what
 voltage is needs.
 
-![CE-125 Side](IMG_20210116_172251.jpg)
+![CE-125 Side](img_005.jpg)
 
 The PC-1251 slides easily out of the dock and here is the back of the unit:
 
-![PC-1251 back](IMG_20210116_172402.jpg)
+![PC-1251 back](img_006.jpg)
 
 Two screws are removed to access the battery compartment, here for reference since the polarity is
 a bit different.
 
-![PC-1251 battery cover removed](IMG_20210116_172555.jpg)
+![PC-1251 battery cover removed](img_007.jpg)
 
 Two fresh CR-2032 batteries are installed, and it's already working!
 
-![PC-1251 front working](IMG_20210116_173715.jpg)
+![PC-1251 front working](img_008.jpg)
 
 With that out of the way I turned my attention once again to the CE-125 and opened it up:
 
-![CE-125 opened up](IMG_20210116_173903.jpg)
+![CE-125 opened up](img_009.jpg)
 
 The battery was already starting to leak, but luckily I was still on time to remove it:
 
-![CE-125 battery corrosion](IMG_20210116_174156.jpg)
+![CE-125 battery corrosion](img_010.jpg)
 
-![CE-125 Original battery](IMG_20210116_195454.jpg)
+![CE-125 Original battery](img_011.jpg)
 
 On the top of the unit I found this mystery connector. The manual refers to it as a test connector
 but there is a holder for the cover on the bottom, which makes me suspect that it was maybe initially
 intended as another expansion port.
 
-![CE-125 mystery connector](IMG_20210116_174412.jpg)
+![CE-125 mystery connector](img_012.jpg)
 
 While testing, I found that the cassette unit didn't work, the reels were not turning at all. After
 removing it and turning it around it was pretty obvious why, the main drive belt had completely degraded
 to the point it just fell apart.
 
-![CE-125 back of the microcassette unit](IMG_20210116_195252.jpg)
+![CE-125 back of the microcassette unit](img_013.jpg)
 
-![CE-125 Broken belt](IMG_20210116_195257.jpg)
+![CE-125 Broken belt](img_014.jpg)
 
 ## CE-125 Power requirements
 
@@ -98,17 +98,17 @@ The internal battery should supply between 4.8v and 6.4v (4x nicad).
 
 Once the replacement belts arrived it was just a matter of opening up the CE-125 again, removing the micro-casette unit and popping a new belt on. I checked the other belts, but they were flexible and sufficiently tense, so I did not replace them.
 
-![CE-125 new belt](IMG_20210129_145707.jpg)
+![CE-125 new belt](img_015.jpg)
 
 Everything back in its original place, time to recover the data on the tape.
 
-![CE-125 micro-cassette unit](IMG_20210116_174423.jpg)
+![CE-125 micro-cassette unit](img_016.jpg)
 
 The CE-125 can only receive data through an external cassette recorder, there is no way to get the data off the unit again, and I don't own another player I could use. To get around this I decided to trace the signal to find an amplified source.
 
 Pretty soon I came across the 5218 dual op amp, and on pin 7 there was a perfectly amplified output for me to use. I soldered a wire to it and used the battery as a ground.
 
-![CE-125 micro-cassette hack](IMG_20210129_150226.jpg)
+![CE-125 micro-cassette hack](img_017.jpg)
 
 I found the following process worked extremely well:
 
