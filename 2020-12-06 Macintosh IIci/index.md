@@ -1,8 +1,8 @@
 # Macintosh II/ci
 
-I bought this Macintosh about 20-25 years ago, played with it for a while, but without more applications for it, it wasn't much fun. I ended up putting into storage and decided recently to take it out and finally do some work on it.
+I bought this Macintosh about 20-25 years ago, played with it for a while, but without more applications for it, it wasn't much fun. I ended up putting it into storage and decided recently to take it out and finally do some work on it.
 
-The original specs were:
+The original specs:
  
 + 25mhz Motorola 68030 CPU and 68882 FPU
 + 20 MB hard drive
@@ -22,6 +22,7 @@ And depending on what kind of hardware I'm able to find:
 ## Work done so far: 
 
 + Full deep clean inside and out
++ Floppy drive cleaning and lubrication
 
 ## Planned work: 
 

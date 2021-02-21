@@ -6,6 +6,7 @@ Bought as unknown / untested, found no issues on first power up
 
 ## Planned work:
 + Full testing
++ Floppy drive cleaning and lubrication
 + Replace capacitors
 
 ## initial inspection
