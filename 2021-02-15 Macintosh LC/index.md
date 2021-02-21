@@ -1,5 +1,5 @@
 # Macintosh LC
-Bought as faulty / unknown, found no issues on first power up
+Bought as unknown / untested, found no issues on first power up
 
 ## Work done so far: 
 + Initial inspection
