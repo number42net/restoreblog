@@ -8,6 +8,7 @@ Bought as faulty, it appears to suffer from a complete loss of sync, even withou
 + 12v and 80v rail repair 
 
 ## Planned work: 
++ Clean and repair corroded traces
 + Full cleaning
 + Plastic colour restoration
 + Replace remaining capacitor and resistor

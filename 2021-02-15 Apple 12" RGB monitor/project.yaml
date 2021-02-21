@@ -6,6 +6,7 @@ project:
   thumbnail: img_001.jpg
   description:
     - "Bought as faulty"
+    - ""
     - "* Sync loss"
     - "* Bad capacitors"
     - "* Faulty resistor"
