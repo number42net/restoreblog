@@ -42,7 +42,7 @@ And yes, there was a large piece of extremely stubborn residue on the head, whic
 
 ![Dirty head](img_007.jpg)
 
-After getting the had sparkling clean, the results were perfect (or as perfect as I could get with a bad floppy)
+After getting the head sparkling clean, the results were perfect (or as perfect as I could get with a bad floppy)
 
 <!-- Add picture of cleaned head -->
 
