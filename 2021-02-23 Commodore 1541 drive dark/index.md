@@ -1,5 +1,5 @@
 # Commodore 1541 floppy drive (dark)
-I purchased this drive in a lot together with a 1451 light model. Both have the Newtronics mechanism and both were sold as faulty.
+I purchased this drive in a lot together with a 1541 light model. Both have the Newtronics mechanism and both were sold as faulty.
 
 ## Work done so far: 
 + Initial inspection
