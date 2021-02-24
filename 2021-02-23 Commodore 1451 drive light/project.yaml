@@ -1,0 +1,8 @@
+project:
+  published: false
+  name: Commodore 1541 drive (light)
+  status: In progress
+  start_date: "2021-02-23"
+  thumbnail: img_001.jpg
+  description:
+    - "Short in reset signal"
