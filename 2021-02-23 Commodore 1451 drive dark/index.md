@@ -3,12 +3,12 @@ I purchased this drive in a lot together with a 1451 light model. Both have the 
 
 ## Work done so far: 
 + Initial inspection
-+ Initial troubleshooting
++ Troubleshooting
 
 ## Planned work:
 + Full repair and restoration
 
-## initial inspection
+## Initial inspection
 
 The drive was overall in very good condition.
 
@@ -20,9 +20,7 @@ The drive was overall in very good condition.
 
 ![Back view](img_004.jpg)
 
-When I first powered it on it worked perfectly, but hasn't been fully tested yet and still needs to have the capacitors replaced. 
-
-## Initial Troubleshooting
+## Troubleshooting
 
 Upon power up the drive didn't spin, both LEDs turned out and didn't turn off again. This was a bit surprising since usually the 
 drive should be spinning.
