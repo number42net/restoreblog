@@ -33,7 +33,7 @@ ROM and related logic chips. This meant first checking the reset line of the 650
 This let me to assume that the 6502 was bad, since there were no signals on the data and address bus at all. I pulled the 6502 and was 
 about to pull the other socketed chips as well when I suddenly noticed that one of the 6522 I/O ICs was inserted upside down!
 
-[6522 upside down](img_005.jpg)
+![6522 upside down](img_005.jpg)
 
 Once that was fixed, the drive started spinning again, but still no luck on the 6502 starting properly.
 
