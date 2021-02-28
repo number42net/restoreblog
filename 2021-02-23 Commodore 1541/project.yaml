@@ -7,6 +7,7 @@ project:
   description:
     - + Newtronics mechanism / Assy 250442
     - ""
+    - ""
     - + Low reset line 
     - + No ATN signal from C64
     - + No communication with C64
