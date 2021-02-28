@@ -6,7 +6,7 @@ project:
   thumbnail: img_001.jpg
   description:
     - + Newtronics mechanism / Assy 250442
-    - ""
+    - "Faults:"
     - ""
     - + Low reset line 
     - + No ATN signal from C64
