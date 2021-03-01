@@ -7,4 +7,4 @@ project:
   description:
     - "+ Bought as faulty / black screen"
     - "+ Bad SID chip"
-    - "+ Bad timer"
+    - "+ Bad CIA chip"
