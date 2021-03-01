@@ -1,12 +1,14 @@
 project:
   published: true
   name: Commodore 64
-  status: On hold
+  status: In progress
   start_date: "2021-02-12"
   thumbnail: img_001.jpg
   description:
-    - "Bought in unknown condition<br>"
+ description:
+    - "Assy: 250425"
     - ""
-    - "- C64 was working perfectly"
-    - "- 1541 drive faulty"
-    - "- Datacasette cover missing"
+    - "+ Bought as unknown / untested"
+    - "+ C64 was working perfectly"
+    - "+ 1541 drive faulty"
+    - "+ Datacasette cover missing"

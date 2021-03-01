@@ -1,4 +1,4 @@
-# Commodore 64 bread bin
+# Commodore 64 bread bin - Assy 250425
 
 As usual, I purchased this Commodore 64 locally untested, the computer itself was working perfectly, but the 1541 floppy drive needed some work. 
 
