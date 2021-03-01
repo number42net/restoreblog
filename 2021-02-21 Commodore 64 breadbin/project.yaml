@@ -1,0 +1,10 @@
+project:
+  published: true
+  name: Commodore 64 breadbin
+  status: Completed
+  start_date: "2021-02-22"
+  thumbnail: img_001.jpg
+  description:
+    - "+ Bought as faulty / black screen"
+    - "+ Bad SID chip"
+    - "+ Bad timer"
