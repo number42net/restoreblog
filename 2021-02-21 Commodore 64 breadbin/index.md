@@ -1,4 +1,4 @@
-# Commodore 64 breadbin - Dark
+# Commodore 64 breadbin / Assy: 250407 rev A / dark
 
 I bought this C64 as faulty / black screen, in addition it turned out to have an issue with the timers in UC2. 
 
