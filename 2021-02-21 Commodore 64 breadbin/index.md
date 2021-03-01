@@ -35,4 +35,6 @@ After removing the SID chip the C64 booted, so I ran a C64 diagnostic cartridge 
 
 I swapped U2 (MOS6526 CIA) into a known working Commodore 64, which resulted in the same issue. Swapping a known good IC into U2 resolved the issue.
 
+![Bad ICs](img_006.jpg)
+
 Unfortunately replacement 6526 ICs are pretty expensive and SID chips are near unobtanium. There are modern equivalents for the 6581 SID, but the sound they produce is not identical to the original.
