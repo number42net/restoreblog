@@ -10,17 +10,17 @@ As usual, I purchased this Commodore 64 locally untested, the computer itself wa
 + Clean up
 + 1571 floppy drive repair
 + Case repair
++ Power adapter proactive maintenance
 
 ## Planned work: 
 
 + Full testing using test ROM
 + Power cable repair
-+ Power adapter proactive maintenance
-+ JiffyDOS conversion
++ JiffyDOS conversion?
 
 ## Exterior inspection:
 
-Like most computers coming across my bench, this Commodore had seen better days. Maybe one day it was a treasured home computer, right now it was a filthy mess.
+Like many computers coming across my bench, this Commodore had seen better days. Maybe one day it was a treasured home computer, right now it was a filthy mess.
 
 ![Top](img_002.jpg)
 
@@ -113,3 +113,21 @@ As mentioned above, when I opened the case I managed to break off the last remai
 ![New hinge front](img_024.jpg)
 
 ![New hinge back](img_025.jpg)
+
+## Power supply refurbishment
+
+The Commodore 64 has a major "Achilles' heel", the power supply. It's build into a separate plastic brick and holds a transformer which sends 9v AC directly to the computer and a small board which contains the rectifier, voltage regulator and related components for the 5v DC supply. The whole brick is filled with potting compound from the factory.
+
+It's this voltage regulator, embedded inside the potted brick which creates the main issue. Over time, they tend  to drift higher, putting more strain on the ICs inside the computer. Eventually they often short, sending the full voltage from the transformer straight to all the sensitive components on the main board, which usually results in many parts failing instantly. 
+
+Here is the back of the original board:
+
+![Back of PCB](img_026.jpg)
+
+Luckily we now have modern replacements for these parts which contain safeties to prevent this type of failure in the first place and also generate barely any heat, compared to the original part which gets really hot.
+
+![Replaced parts](img_027.jpg)
+
+Here I used a Traco Power TSR 2-2450, purchased directly from a certified distributor. It can supply 2A, slightly more than the original 1.5A regulator, which helps to run more demanding cartridges. While I had it open, I also replaced the capacitor with a matching axial model. 
+
+![Power supply back together](img_28.jpg)

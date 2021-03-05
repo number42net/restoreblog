@@ -37,3 +37,39 @@ I desoldered the IC and replaced it with one from a parts C64 board. Here is a p
 And once I booted it up it passed all diagnostics! (the ones showing BAD here are because the diagnostics harness is not installed)
 
 ![Passed diagnostics](img_009.jpg)
+
+## Power supply refurbishment
+
+The Commodore 64 has a major "Achilles' heel", the power supply. It's build into a separate plastic brick and holds a transformer which sends 9v AC directly to the computer and a small board which contains the rectifier, voltage regulator and related components for the 5v DC supply. The whole brick is filled with potting compound from the factory.
+
+![Power supply opened up](img_010.jpg)
+
+It's this voltage regulator, embedded inside the potted brick which creates the main issue. Over time, they tend  to drift higher, putting more strain on the ICs inside the computer. Eventually they often short, sending the full voltage from the transformer straight to all the sensitive components on the main board, which usually results in many parts failing instantly. 
+
+Luckily we now have modern replacements for these parts which contain safeties to prevent this type of failure in the first place and also generate barely any heat, compared to the original part which gets really hot.
+
+![Power supply finished](img_011.jpg)
+
+Here I used a Traco Power TSR 2-2450, purchased directly from a certified distributor. It can supply 2A, slightly more than the original 1.5A regulator, which helps to run more demanding cartridges. While I had it open, I also replaced the capacitor with a matching axial model. 
+
+## Clean up and plastic restoration
+
+Now for the biggest challenge, cleaning the Commodore inside and out from top to bottom. The First steps is taking it completely a part and removing the keyboard and all the key caps. It wasn't as dirty as expected:
+
+![Keyboard dirty](img_012.jpg)
+
+![Keyboard cleaned](img_013.jpg)
+
+After cleaning the keyboard itself, it was time to put all the keys in soapy water for a quick scrubbing and drying. After which the keyboard can be re-assembled:
+
+![Keyboard re-assembled](img_014.jpg)
+
+Next came a thorough scrubbing of the top part of the case and a restoration of the plastic colour. Even though this one wasn't very yellowed, it was still quite a transformation!
+
+![Top case finished](img_015.jpg)
+
+![Top case bottom](img_016.jpg)
+
+Here is a quick preview of the case assembled back together again, but the bottom half still needs to go through the same process!
+
+![Top case re-assembled](img_017.jpg)
