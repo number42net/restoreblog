@@ -52,9 +52,9 @@ Luckily we now have modern replacements for these parts which contain safeties t
 
 Here I used a Traco Power TSR 2-2450, purchased directly from a certified distributor. It can supply 2A, slightly more than the original 1.5A regulator, which helps to run more demanding cartridges. While I had it open, I also replaced the capacitor with a matching axial model. 
 
-## Clean up and plastic restoration
+## Cleaning and plastic restoration
 
-Now for the biggest challenge, cleaning the Commodore inside and out from top to bottom. The First steps is taking it completely a part and removing the keyboard and all the key caps. It wasn't as dirty as expected:
+Now for the biggest challenge, cleaning this Commodore inside and out from top to bottom. The First step is taking it completely a part and removing the keyboard and all the key caps. It wasn't as dirty as expected:
 
 ![Keyboard dirty](img_012.jpg)
 

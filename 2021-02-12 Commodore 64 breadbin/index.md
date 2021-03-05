@@ -130,4 +130,4 @@ Luckily we now have modern replacements for these parts which contain safeties t
 
 Here I used a Traco Power TSR 2-2450, purchased directly from a certified distributor. It can supply 2A, slightly more than the original 1.5A regulator, which helps to run more demanding cartridges. While I had it open, I also replaced the capacitor with a matching axial model. 
 
-![Power supply back together](img_28.jpg)
+![Power supply back together](img_028.jpg)
