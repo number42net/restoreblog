@@ -1,10 +1,26 @@
-# Commodore 64 breadbin / Assy: 250425 / dark
+# Commodore 64 breadbin / Assy: 250425
 
-I bought this C64 unknown / untested in a lot together with another identical model. Both had some issues, but neither appears to have ever been worked on before.
+I bought this Commodore 64 as unknown / untested in a lot together with another identical model. Aside from a faulty memory IC, it was in great condition.
+
+Here are some pictures of the finished computer:
+
+![Top](img_020.jpg)
+
+![Side](img_021.jpg)
+
+![Back](img_022.jpg)
+
+### Work done:
+
++ Fully inspected and tested
++ Replaced faulty memory IC
++ Refurbished power supply
++ Fully cleaned inside and out
++ Plastic colour restoration
 
 ## Initial inspection
 
-Overall the condition was decent, quite dirty, but nothing unexpected:
+Overall the condition was very decent, quite dirty, but nothing unexpected:
 
 ![Top](img_001.jpg)
 
@@ -30,11 +46,11 @@ And once I turned the board around, it was clear that it had been replaced in th
 
 ![Bottom of the board](img_007.jpg)
 
-I desoldered the IC and replaced it with one from a parts C64 board. Here is a picture of the three ICs next to each other. One replaced at some point in the past, one replaced now and one of the original ICs.
+I desoldered the faulty IC and replaced it with one from a parts C64 board. Here is a picture of the three ICs next to each other. One replaced at some point in the past, one replaced now and one of the original ICs.
 
 ![Replaced IC](img_008.jpg)
 
-And once I booted it up it passed all diagnostics! (the ones showing BAD here are because the diagnostics harness is not installed)
+Once I booted it up again, it passed all diagnostics without issue!
 
 ![Passed diagnostics](img_009.jpg)
 
@@ -44,7 +60,7 @@ The Commodore 64 has a major "Achilles' heel", the power supply. It's build into
 
 ![Power supply opened up](img_010.jpg)
 
-It's this voltage regulator, embedded inside the potted brick which creates the main issue. Over time, they tend  to drift higher, putting more strain on the ICs inside the computer. Eventually they often short, sending the full voltage from the transformer straight to all the sensitive components on the main board, which usually results in many parts failing instantly. 
+It's this voltage regulator, embedded inside the potted brick which creates the main issue. Over time, they tend to drift higher, putting more strain on the ICs inside the computer. Eventually they often short, sending the full voltage from the transformer straight to all the sensitive components on the main board, which usually results in many parts failing instantly. 
 
 Luckily we now have modern replacements for these parts which contain safeties to prevent this type of failure in the first place and also generate barely any heat, compared to the original part which gets really hot.
 
@@ -70,6 +86,10 @@ Next came a thorough scrubbing of the top part of the case and a restoration of 
 
 ![Top case bottom](img_016.jpg)
 
-Here is a quick preview of the case assembled back together again, but the bottom half still needs to go through the same process!
+Now it's the turn of the bottom half:
 
-![Top case re-assembled](img_017.jpg)
+![Bottom inside](img_017.jpg)
+
+![Bottom](img_019.jpg)
+
+![Mainboard re-installed](img_018.jpg)

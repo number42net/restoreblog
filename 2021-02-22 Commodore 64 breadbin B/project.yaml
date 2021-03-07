@@ -1,9 +1,9 @@
 project:
   published: true
   name: Commodore 64 breadbin B
-  status: In progress
+  status: Completed
   start_date: "2021-02-22"
-  thumbnail: img_001.jpg
+  thumbnail: img_020.jpg
   description:
   description:
     - "PCB version: 250425"
