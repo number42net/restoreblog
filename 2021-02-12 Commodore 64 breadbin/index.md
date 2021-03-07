@@ -1,22 +1,20 @@
 # Commodore 64 bread bin - Assy 250425
 
-As usual, I purchased this Commodore 64 locally untested, the computer itself was working perfectly, but the 1541 floppy drive needed some work. 
+As usual, I purchased this Commodore 64 locally untested, the computer itself was working perfectly, but the 1541 floppy drive needed some work. (see: [2021-02-12 Commdore 1541 drive](../2021-02-12_Commodore_1541_drive/)
 
 ![Cleaned up](img_001.jpg)
 
 ## Work done so far: 
 
-+ Initial inspection and testing
++ Full inspection and testing
 + Clean up
-+ 1571 floppy drive repair
 + Case repair
 + Power adapter proactive maintenance
 
 ## Planned work: 
 
-+ Full testing using test ROM
 + Power cable repair
-+ JiffyDOS conversion?
++ Color restauration
 
 ## Exterior inspection:
 
@@ -81,30 +79,6 @@ The keyboard was particularly dirty, and I ended up taking it fully apart to do 
 ![Clean PCB](img_017.jpg)
 
 ![Clean keyboard case](img_018.jpg)
-
-## 1541 floppy drive
-
-The 1541 is a special beast, it's not just a floppy drive, but a full 8-bit computer in its own right, with a MOS 6502 CPU, RAM, ROM and related logic chips.
-
-![Floppy drive top](img_019.jpg)
-
-![Floppy drive front](img_020.jpg)
-
-![Floppy drive back](img_021.jpg)
-
-After opening up the drive and doing a quick inspection of the belt and general condition I tried powering it on: The motor started spinning straight away, but unfortunately didn't stop spinning as it should. Instead, I was greeted by 3 slow red flashes followed by a pause, which continued indefinitely. 
-
-I started off probing the voltages, which all checked out and then moved on to the oscilloscope. On the CPU side everything seemed fine, data and address lines were active. 
-
-Thanks to the great work of [Ray Carlson](http://personalpages.tds.net/~rcarlsen/cbm/1541/1541chip.txt) I was quickly pointed into the direction of the ROMs. The ROM in location UB4 seemed perfectly fine, but UB3 had badly corroded pins. 
-
-![Corroded pins](img_022.jpg)
-
-After a quick clean up the issue was fully resolved, which meant moving on to the mechanical side. After freeing and lubricating the shafts on which the heads moved it was time for testing. 
-
-I connected everything up and played a quick round of Landing on TB19 with my son!
-
-![Playing a game](img_023.jpg)
 
 ## Case repair
 
