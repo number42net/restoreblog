@@ -1,4 +1,4 @@
-# Commodore 1541 drive - Alps mechanism / PCB Assy: -
+# Commodore 1541 drive - Alps mechanism / PCB Assy: 
 
 I purchased this Commodore floppy drive locally as untested, together with a Commodore 64 computer.
 
