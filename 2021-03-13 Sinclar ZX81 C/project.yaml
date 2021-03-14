@@ -1,0 +1,10 @@
+project:
+  published: true
+  name: Sinclair ZX81 C
+  status: In progress
+  start_date: "2021-03-13"
+  thumbnail: img_001.jpg
+  description:
+    - "Issue 1 / 2C184E ULA / Dual RAM ICs"
+    - ""
+    - "+ Composite mod"

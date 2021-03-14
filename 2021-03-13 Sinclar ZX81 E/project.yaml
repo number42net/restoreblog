@@ -1,0 +1,10 @@
+project:
+  published: true
+  name: Sinclair ZX81 E
+  status: In progress
+  start_date: "2021-03-13"
+  thumbnail: img_001.jpg
+  description:
+    - "Issue One / 2C210E ULA / Dual RAM ICs"
+    - ""
+    - "+ Faulty ULA"
