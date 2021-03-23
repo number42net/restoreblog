@@ -3,7 +3,7 @@ project:
   name: Sinclair ZX81 video board
   status: In progress
   start_date: "2021-03-20"
-  thumbnail: img_009.jpg
+  thumbnail: img_009.png
   description:
     - "Fixes the issue of using a ZX-81 with colour TVs"
     - ""
