@@ -11,7 +11,13 @@ The 'back porch' section is used by the TV to set the black or blank level, this
 
 This is an oscilloscope trace of the original signal (blue) with the fixed signal overlaid (yellow), in addition to adding the back porch the peak to peak voltage of the signal is also been reduced to nearly 1v to match the composite specification.
 
-![Actual waveforms](img_002.jpg)
+![Actual waveforms](img_002.png)
+
+# Finished PCB
+
+The final PCBs will be ordered soon, but here is a rendering for now:
+
+![Board render](img_009.png)
 
 # Schematic 
 
@@ -47,9 +53,3 @@ Most of the components don't require a very precise value, but unless specified,
 ![Connections bottom](img_007.jpg)
 
 ![Results](img_008.jpg)
-
-# Finished PCB
-
-The final PCBs will be ordered soon, but here is a rendering for now:
-
-![Board render](img_009.png)
