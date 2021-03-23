@@ -9,7 +9,7 @@ Here is what an ideal composite sync pulse should look like:
 
 The 'back porch' section is used by the TV to set the black or blank level, this way it knows that any signal above this level indicates a lighter pixel. On models with the 2C184E ULA this section is completely missing and instead the signal goes straight to full white. 
 
-This is an oscilloscope trace of the original signal (blue) with the fixed signal overlaid (yellow), in addition to adding the back porch the peak to peak voltage of the signal is also been reduced to nearly 1v to match the composite specification.
+This is an oscilloscope trace of the original signal (blue) with the fixed signal overlaid (yellow), in addition to adding the back porch the peak to peak voltage of the signal has also been reduced to nearly 1v to match the composite specification.
 
 ![Actual waveforms](img_002.png)
 
