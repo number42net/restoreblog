@@ -1,0 +1,11 @@
+project:
+  published: true
+  name: Sinclair ZX81 video board
+  status: In progress
+  start_date: "2021-03-20"
+  thumbnail: img_001.jpg
+  description:
+    - "Fixes the issue of using a ZX-81 with colour TVs"
+    - ""
+    - "+ Adds the 'back porch' to the composite video signal"
+    - "+ Specfically designed for the 2C184E ULA"
