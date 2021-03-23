@@ -42,6 +42,7 @@ Most of the components don't require a very precise value, but unless specified,
 | R1, R2, R3    | 100 Ω 1/8w          | Values are not very critical, but R2 and R3 need to be chosen properly to ensure the correct voltage drop for the back porch.     |
 | U1            | ATtiny13a          | Any Arduino compatible microcontroller should work, ATtiny13a, ATtiny85 and ATmega328P were tested |
 
+
 # First Prototypes
 
 ![Bread board](img_004.jpg)
