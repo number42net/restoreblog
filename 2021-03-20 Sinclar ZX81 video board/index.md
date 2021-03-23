@@ -47,3 +47,9 @@ Most of the components don't require a very precise value, but unless specified,
 ![Connections bottom](img_007.jpg)
 
 ![Results](img_008.jpg)
+
+# Finished PCB
+
+The final PCBs will be ordered soon, but here is a rendering for now:
+
+![Board render](img_009.png)
