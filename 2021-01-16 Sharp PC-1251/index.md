@@ -4,7 +4,9 @@ I purchased this unit as untested with very few pictures of background informati
 what exactly it was.
 
 After replacing the batteries I found the computer itself was working perfectly, but the batteries in the
-CE-125 were starting to corrode, the printer printed very faded and micro-cassette players belts were gone.
+CE-125 were starting to corrode, the printer printed very faded and eventually stopped write all together. The micro-cassette players belt needed replacement.
+
+!(Final result)[img_019.jpg]
 
 ##### Work done:
 
@@ -12,10 +14,7 @@ CE-125 were starting to corrode, the printer printed very faded and micro-casset
 * Battery removal
 * Micro-cassette repair
 * Copying original data off of the micro-cassette
-
-##### Planned work:
-
-* Printer repair
+* Attempted repair of the thermal printer
 
 ## More information
 
@@ -86,13 +85,13 @@ to the point it just fell apart.
 
 ![CE-125 Broken belt](img_014.jpg)
 
-## CE-125 Power requirements
+## CE-125 Replacement battery and power supply
 
-After some research I found the original power brick is the Sharp EA-23E which supplies 8.5v DC.
+After some research I found the original power brick is the Sharp EA-23E which supplies 8.5v DC, looking at the internals it should easily handle a regular 9v adapter, but the DC barrel jack is **centre negative** which makes it incompatible with most current DC power supplies.
 
-The DC barrel jack is **centre negative** which makes it incompatible with most current DC power supplies.
+The internal battery should supply between 4.8v and 6.4v (4x nicad). I replaced it with a slightly higher capacity 700mah version:
 
-The internal battery should supply between 4.8v and 6.4v (4x nicad).
+![New battery](img_018.jpg)
 
 ## Micro-cassette repair and data recovery
 
@@ -126,7 +125,7 @@ He provides binaries for Windows, but it compiled without any problems on MacOS 
 I found that the following settings worked best for me:
 
 ```
-/wav2bin --pc 1251 --device=CAS test.wav test.basic  
+./wav2bin --pc 1251 --device=CAS test.wav test.basic  
 ```
 
 A quick one-liner to convert all the files in the current directory.
