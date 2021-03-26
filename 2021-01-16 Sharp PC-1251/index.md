@@ -6,7 +6,7 @@ what exactly it was.
 After replacing the batteries I found the computer itself was working perfectly, but the batteries in the
 CE-125 were starting to corrode, the printer printed very faded and eventually stopped write all together. The micro-cassette players belt needed replacement.
 
-!(Final result)[img_019.jpg]
+![Final result](img_019.jpg)
 
 ##### Work done:
 
