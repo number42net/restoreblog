@@ -1,8 +1,11 @@
 project:
   published: true
   name: Sharp PC-1251
-  status: On hold
+  status: Completed
   start_date: "2021-01-16"
-  thumbnail: img_003.jpg
+  thumbnail: img_019.jpg
   description:
     - "A very interresting portable micro computer, introduced in 1982"
+    - ""
+    - "+ Replaced internal battery pack"
+    - "+ Replaced micro casette drive belt"
