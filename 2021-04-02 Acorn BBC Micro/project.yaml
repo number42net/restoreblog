@@ -1,0 +1,11 @@
+project:
+  published: true
+  name: Acorn BBC Micro model B
+  status: In progress
+  start_date: "2021-04-02"
+  thumbnail: img_001.jpg
+  description:
+    - "Issue 7 PCB"
+    - ""
+    - "+ Econet option pre-installed"
+    - "+ No disc controller"
