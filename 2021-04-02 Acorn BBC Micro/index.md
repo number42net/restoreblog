@@ -3,7 +3,7 @@ For a change I purchased this Acorn BBC Micro as a fully working machine. These 
 
 The BBC Micro will always be a special machine for me. I owned one in my early teens when they were already considered completely obsolete, but unlike our family computer, I could take it apart and try (unsuccessfully) to figure out how it worked. When I got my original machine it came with two floppy drives and several books on BASIC programming. It opened a new world for me, writing my own programs! 
 
-Unfortunately it died after a few years of service and being already replaced by several other computers at  that point, it ended up like so many; at the recycling centre. 
+Unfortunately it died after a few years of service and being already replaced by several other computers at that point and not having the necessary skills at the time, it sadly ended up like so many; at the recycling centre. 
 
 Back to the computer on my bench today: It has an issue 7 board and came only with Econet components pre-installed, no disk controller. In addition to the regular OS 1.20, BASIC and DNFS ROMs it also came with a "Velonet 0.42" ROM, more on this to come.
 
