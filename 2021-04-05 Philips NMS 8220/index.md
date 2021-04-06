@@ -35,17 +35,15 @@ From the description I was already suspecting that there might be an issue with 
 
 Pins 7 (blue), 11 (green), 15 (red) were working correctly.
 
-![Scart](img_012.png)
-
 I found a [schematic](https://archive.org/details/philipsnms8220sm) and started tracing the signal around the board. Q5 was receiving 12v at the collector, but nothing at the base. Pin 12 of the encoder board connector was also not showing any activity. While probing the PAL encoder IC I found no activity at all, not even a 5V input.
 
-![CVBS scart](img_013.jpg)
+![CVBS scart](img_014.jpg)
 
-![CVBS encoder unit](img_014.png)
+![CVBS encoder unit](img_015.png)
 
 At this point I knew that the likely cause was a lack of 5v supply to the encoder board. Again using the schematic I started probing around and found 5v going into inductor L1, but less than 1v coming out again, even with the encoder board completely disconnected.
 
-![5v to encoder unit](img_015.jpg)
+![5v to encoder unit](img_016.jpg)
 
 This left 2 possible causes, either the inductor was bad or capacitor C15 was shorted to ground, but if that was the case I would have expected to see a lower voltage on the 5v rail. 
 
