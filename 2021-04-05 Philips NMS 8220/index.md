@@ -55,7 +55,7 @@ Just to be sure, I first removed C15 to isolate L1 completely, but the issue rem
 
 # Application ROM
 
-The NMS 8220 boots into a paint program called "MSX Designed". Although this can be skipped by holding ESC while booting I find this quite annoying, so I removed the application ROM from its socket. This has the effect of turning it into a standard MSX 2 computer which defaults to Microsoft Basic.
+The NMS 8220 boots into a paint program called "MSX Designer". Although this can be skipped by holding ESC while booting I find this quite annoying, so I removed the application ROM from its socket. This has the effect of turning it into a standard MSX 2 computer which defaults to Microsoft Basic.
 
 # Battery removal
 
