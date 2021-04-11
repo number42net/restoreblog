@@ -8,7 +8,7 @@ This computer belongs to a customer who requested a full recap and floppy drive 
 ## Planned work
 + Reinstall new capacitors on main board
 + Replace capacitors in power supply
-+ Clean and lubricate power supply.
++ Clean and lubricate floppy drive.
 
 # Initial inspection
 Here is the case opened up and the board removed:
