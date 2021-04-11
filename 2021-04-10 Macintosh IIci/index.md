@@ -28,7 +28,7 @@ After removing the old capacitors I gave the board a thorough cleaning:
 
 ![Fully cleaned](img_009.jpg)
 
-A few suspect traces were found, these will be cleaned and tinned and protected with new solder mask.
+A few suspect traces were found, these will be cleaned, tinned and protected with new solder mask.
 
 ![Bad traces](img_005.jpg)
 
