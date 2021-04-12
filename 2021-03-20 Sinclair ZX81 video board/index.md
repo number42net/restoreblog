@@ -13,9 +13,9 @@ This is an oscilloscope trace of the original signal (blue) with the fixed signa
 
 ![Actual waveforms](img_002.png)
 
-# Update 2021-04-12
+# Solution
 
-I ended up having issues making this circuit work correctly with different TVs without having to make adjustments to the potentiometers. I therefore abandoned this design and instead used the solution of sinclairworld.com user [Pokemon](https://www.sinclairzxworld.com/viewtopic.php?f=6&t=840) which gives absolutely amazing results by not just adding the required back porch, but actually recreating the whole signal. Unfortunately it wasn't available for sale anywhere at the time of writing, so I ended up designing a similar circuit using the 74HC04 logic IC instead. 
+I ended up having issues making the below circuit work correctly with different TVs without having to make adjustments to the potentiometers. I therefore abandoned this design and instead used the solution of sinclairworld.com user [Pokemon](https://www.sinclairzxworld.com/viewtopic.php?f=6&t=840) which gives absolutely amazing results by not just adding the required back porch, but actually recreating the whole signal. Unfortunately it wasn't available for sale anywhere at the time of writing, so I ended up designing a similar circuit using the 74HC04 logic IC instead. 
 
 For this reason I no longer plan on selling these boards, but will make the design available on GitHub once I have received and tested the PCBs from the factory.
 
@@ -23,13 +23,15 @@ For this reason I no longer plan on selling these boards, but will make the desi
 
 ![Breadboard](composite_img_002.jpg)
 
-# Finished PCB
+The remainder of this page documents my original circuit.
+
+#### Finished PCB
 
 The final PCBs will be ordered soon, but here is a rendering for now:
 
 ![Board render](img_009.png)
 
-# Schematic 
+#### Schematic 
 
 ![schematic](img_003.png)
 
@@ -39,7 +41,7 @@ When the microcontroller detects the sync pulse it waits for a preconfigured del
 
 Lastly D2 is used to drop the voltage of the signal to 1v peak to peak as required by the composite specification.
 
-# Required parts:
+#### Required parts:
 
 Most of the components don't require a very precise value, but unless specified, only the component values below were actually tested. If you decide to make this board yourself an oscilloscope is probably required to properly adjust the timings. Premade boards will soon be offered on my Tindy shop. 
 
@@ -53,7 +55,7 @@ Most of the components don't require a very precise value, but unless specified,
 | U1            | ATtiny13a          | Any Arduino compatible microcontroller should work, ATtiny13a, ATtiny85 and ATmega328P were tested |
 
 
-# First Prototypes
+#### First Prototypes
 
 ![Bread board](img_004.jpg)
 
