@@ -71,7 +71,7 @@ The colour codes are a bit difficult to see, but they should be brown, black, bl
 
 ![Bad resistor](img_010.jpg)
 
-I didn't have a suitable 1/2w resistor in stock, but I replaced it with a 1/4w just for testing and the result:
+Initially I didn't have a suitable 1/2w capacitor in stock, so I used a 1/4w just for testing before swapping it with the correct model and the result:
 
 ![Fully working!](img_011.jpg)
 

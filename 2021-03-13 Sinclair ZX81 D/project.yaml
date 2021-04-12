@@ -7,4 +7,5 @@ project:
   description:
     - "Issue 3 / 2C184E ULA / Single RAM IC"
     - ""
-    - "+ Composite mod"
+    - "+ Composite upgrade"
+    - "+ 16K ram upgrade"
