@@ -10,9 +10,6 @@ But after taking it from the shelf, I discovered I had left batteries in it, and
 
 + Clean up battery electrolyte
 + Repair PCB
-
-## Planned work: 
-
 + Replace gear
 
 ## Inspection:
@@ -48,6 +45,10 @@ Here are the specs of the gear in case you run into the same issue:
 + Shaft diameter: 2 mm
 + Total diameter: 5.5 mm
 
-I've ordered a replacement gear. It will probably take a while before it arrives, so in the meantime here is already one happy girl with her new toy:
+After installing the replacement gear:
+
+![Replacement gear](img_008.jpg)
+
+Here is one happy little girl with her new toy:
 
 ![Holding Elmo](img_007.jpg)
