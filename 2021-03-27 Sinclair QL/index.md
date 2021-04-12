@@ -3,6 +3,17 @@ I purchased this Sinclair QL locally as unknown / untested, together with the po
 
 Overall, the computer is great condition, the only fault I was able to identify so far is the keyboard membrane, which is a common issue for all computers with these types of keyboards. 
 
+### Completed work
+
++ Initial inspection
++ Keyboard membrane replacement
++ Power cable replacement
+
+### Planned work
+
++ Check Micro Drives
++ Possible expansions
+
 # Initial inspection:
 
 Here are some pictures of the machine after collecting it:
@@ -29,4 +40,16 @@ After verifying the voltages from the power supply were correct and having a qui
 
 But straight away I noticed an issue, the keyboard was not responding. After checking the keyboard membrane, it was badly cracked around the connector. I attempted to cut off the worst section and reconnect the remaining part, but new cracks appeared straight away.
 
-This project is on hold until the replacement membrane arrives, and I can continue testing.
+# Keyboard
+
+While opening the case again to replace the keyboard membrane I found that in the mean time one of the connections had completely broken in half:
+
+![Old keyboard removal](img_010.jpg)
+
+Here is the brand new keyboard membrane installed:
+
+![New keyboard installed](img_011.jpg)
+
+And lastly a picture of the old dried out and cracked membrane:
+
+![Old keyboard membrane](img_012.jpg)
