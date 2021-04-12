@@ -41,6 +41,7 @@ This is also the moment that I remembered hearing some crunchy noises the last t
 ![Broken gear](img_006.jpg)
 
 Here are the specs of the gear in case you run into the same issue:
+
 + Gears: 9
 + Shaft diameter: 2 mm
 + Total diameter: 5.5 mm
