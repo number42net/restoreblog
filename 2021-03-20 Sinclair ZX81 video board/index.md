@@ -3,6 +3,17 @@ To make the Sinclair ZX81 usable on modern TVs, the first step is to perform a '
 
 This works perfectly on later ZX81 models, but because early versions don't generate a correct PAL video signal there will be no image at all or a very dark image on most colour TVs, even using a CRT won't help in this case.
 
+*Update 2020-04-12*
+I ended up having issues making this circuit work correctly with different TVs without having to make adjustments to the potentiometers. I therefore abandoned this design and instead used the solution of sinclairworld.com user [Pokemon](https://www.sinclairzxworld.com/viewtopic.php?f=6&t=840) which gives absolutely amazing results by not just adding the required back porch, but actually recreating the whole signal. Unfortunately it wasn't available for sale anywhere at the time of writing, so I ended up designing a similar circuit using the 74HC04 logic IC instead. 
+
+For this reason I no longer plan on selling these boards, but will make the design available on GitHub once I have received and tested the PCBs from the factory.
+
+![Circuit](composite_img_001.png)
+
+![Breadboard](composite_img_002.jpg)
+
+*End of update*
+
 Here is what an ideal composite sync pulse should look like:
 
 ![Ideal waveform](img_001.jpg)
