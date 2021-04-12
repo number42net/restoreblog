@@ -3,11 +3,11 @@ Model: Issue One / 2C184E ULA / Dual RAM ICs
 
 I purchased this ZX81 in a lot together with several other computers, RAM expansions, printers and cassettes.
 
-### Work done so far
+#### Work done so far
 + Inspection and testing
 + Reversible 16K RAM upgrade
 
-### Planned work
+#### Planned work
 + Reversible composite video upgrade
 
 # Inspection
