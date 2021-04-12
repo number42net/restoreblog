@@ -43,7 +43,7 @@ Lastly D2 is used to drop the voltage of the signal to 1v peak to peak as requir
 
 #### Required parts:
 
-Most of the components don't require a very precise value, but unless specified, only the component values below were actually tested. If you decide to make this board yourself an oscilloscope is probably required to properly adjust the timings. Premade boards will soon be offered on my Tindy shop. 
+Most of the components don't require a very precise value, but unless specified, only the component values below were actually tested. If you decide to make this board yourself an oscilloscope is probably required to properly adjust the timings.
 
 | Component     | Value              | Description  |
 | ------------- |--------------------| -----|
@@ -53,7 +53,7 @@ Most of the components don't require a very precise value, but unless specified,
 | Q1, Q2        | BC337              | Timing might need to be adjusted if changed. | 
 | R1, R2, R3    | 100 Ω 1/8w          | Values are not very critical, but R2 and R3 need to be chosen properly to ensure the correct voltage drop for the back porch.     |
 | U1            | ATtiny13a          | Any Arduino compatible microcontroller should work, ATtiny13a, ATtiny85 and ATmega328P were tested |
-
+| ------------- |--------------------| -----|
 
 
 #### First Prototypes
