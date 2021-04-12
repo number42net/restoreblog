@@ -1,7 +1,7 @@
 project:
   published: true
   name: Sinclair ZX81 video board
-  status: In progress
+  status: Completed
   start_date: "2021-03-20"
   thumbnail: img_009.png
   description:
