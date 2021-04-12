@@ -3,13 +3,13 @@ I purchased this Sinclair QL locally as unknown / untested, together with the po
 
 Overall, the computer is great condition, the only fault I was able to identify so far is the keyboard membrane, which is a common issue for all computers with these types of keyboards. 
 
-### Completed work
+#### Work done so far
 
 + Initial inspection
 + Keyboard membrane replacement
 + Power cable replacement
 
-### Planned work
+#### Planned work
 
 + Check Micro Drives
 + Possible expansions
