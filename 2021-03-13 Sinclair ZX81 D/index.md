@@ -35,7 +35,7 @@ I'm currently waiting for the PCBs to arrive from the factory.
 # 16K ram upgrade
 As standard the ZX81 comes with 1 KB or RAM, which even in 1981 was very little. There is a 16 KB RAM expansion pack which addresses this, but because it's about half the size of the computer itself, it's not very practical and easily disconnects, instantly crashing the computer. 
 
-Luckily it's quite easy to upgrade the memory of ZX81 to 16K without any permanent modifications, especially since this computer already came with the memory socketed. Below I used a 32 KB memory IC because they're more common, but only 16 KB is actually usable, which is enough for almost all applications.
+Luckily it's quite easy to upgrade the memory of the ZX81 to 16K without any permanent modifications, especially since this computer already came with the memory socketed. Below I used a 32 KB memory IC because they're more common, but only 16 KB is actually usable, which is enough for almost all applications.
 
 ![16K upgrade](img_005.jpg)
 
