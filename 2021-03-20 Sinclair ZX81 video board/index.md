@@ -55,6 +55,7 @@ Most of the components don't require a very precise value, but unless specified,
 | U1            | ATtiny13a          | Any Arduino compatible microcontroller should work, ATtiny13a, ATtiny85 and ATmega328P were tested |
 
 
+
 #### First Prototypes
 
 ![Bread board](img_004.jpg)
