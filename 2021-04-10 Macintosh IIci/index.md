@@ -1,5 +1,5 @@
 # Macintosh II/ci
-This computer belongs to a customer who requested a full recap and floppy drive replacement.
+This computer belongs to a customer who requested a full recap and floppy drive refurbishment.
 
 #### Work done so far
 + Replace capacitors from main board and power supply
