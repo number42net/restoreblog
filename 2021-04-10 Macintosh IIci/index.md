@@ -2,12 +2,10 @@
 This computer belongs to a customer who requested a full recap and floppy drive replacement.
 
 ## Work done so far
-+ Remove capacitors from main board
++ Replace capacitors from main board and power supply
 + Clean main board and power supply
 
 ## Planned work
-+ Reinstall new capacitors on main board
-+ Replace capacitors in power supply
 + Clean and lubricate floppy drive.
 
 # Initial inspection
@@ -38,6 +36,15 @@ A few suspect traces were found, these will be cleaned, tinned and protected wit
 
 ![Bad traces](img_008.jpg)
 
+And here is the finished result, the old electrolytic capacitors have been replaced with tantalum versions, bad traces have been repaired, the whole board has been thoroughly cleaned and a new battery fitted:
+
+![Logic board finished](img_015.jpg)
+
+Here is the machine powered:
+
+![Memory](img_016.jpg)
+
+
 # Power supply
 Once the motherboard was done, it was time to move on to the power supply. 
 
@@ -52,3 +59,24 @@ Overall it was cleaner than I had expected, but the fan was pretty crusty:
 After cleaning, I found it spun freely, so no need to replace it:
 
 ![Clean fan](img_013.jpg)
+
+Here are all the capacitors removed:
+
+![Power supply removed](img_014.jpg)
+
+Unfortunately I forgot to take a picture of the power supply with the new capacitors installed, I will add this later.
+
+# Floppy drive
+The floppy drive was particularly bad, there was a huge amount of caked on dirt inside:
+
+![Dirty floppy drive](img_017.jpg)
+
+![Very dirty head](img_018.jpg)
+
+Here is the drive fully disassembled:
+
+![Floppy drive disassembled](img_019.jpg)
+
+And the same parts cleaned:
+
+![Cleaned parts](img_020.jpg)
