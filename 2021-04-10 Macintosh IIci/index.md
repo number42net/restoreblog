@@ -1,11 +1,11 @@
 # Macintosh II/ci
 This computer belongs to a customer who requested a full recap and floppy drive replacement.
 
-## Work done so far
+#### Work done so far
 + Replace capacitors from main board and power supply
 + Clean main board and power supply
 
-## Planned work
+#### Planned work
 + Clean and lubricate floppy drive.
 
 # Initial inspection
@@ -80,3 +80,5 @@ Here is the drive fully disassembled:
 And the same parts cleaned:
 
 ![Cleaned parts](img_020.jpg)
+
+What is left is just re-assembling and fully lubricating the mechanism.
