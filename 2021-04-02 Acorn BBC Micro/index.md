@@ -24,3 +24,15 @@ The computer has some slight yellowing, but is otherwise is great condition. Asi
 ![Back](img_003.jpg)
 
 ![Mainboard](img_004.jpg)
+
+# Creating a video cable
+
+First step to get the computer up and running was creating a video cable. The Micro has a standard RF output, but as with most computers, the quality is quite poor. Luckily it also has a RGB output on a DIN 6 connector which does give a perfect image.
+
+Here is the schematic for creating a SCART cable:
+
+![DIN to SCART schematic](img_005.png)
+
+And here is the finished cable, but please not that the wire colours ar mixed up in this example:
+
+![DIN to SCART](img_006.jpg)

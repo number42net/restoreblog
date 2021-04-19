@@ -3,6 +3,7 @@ project:
   name: Acorn BBC Micro model B
   status: In progress
   start_date: "2021-04-02"
+  last_update: "2021-04-19"
   thumbnail: img_001.jpg
   description:
     - "Issue 7 PCB"
