@@ -53,3 +53,13 @@ Here is the brand new keyboard membrane installed:
 And lastly a picture of the old dried out and cracked membrane:
 
 ![Old keyboard membrane](img_012.jpg)
+
+# Video cable
+
+Up to this point I had been using the RF output, which doesn't produce great video quality. The next step was to create a SCART video cable using the RGB output.
+
+One of the issues I ran into was that the sync signal wasn't strong enough to trigger the RGB selection on my TV, which appears to be a common issue. Because there is no 5V pin available on any of the outputs on the back of the QL, I aded an additional USB connector to the SCART cable which can be plugged into either a wall socket or the USB connections found on many modern TVs. 
+
+Below is the schematic for the cable:
+
+![SCART schematic](img_013.png)
