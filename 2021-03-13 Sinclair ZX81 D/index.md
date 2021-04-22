@@ -9,6 +9,16 @@ A lot of people make destructive modifications to these computers, but I like to
 + Inspection and testing
 + Reversible composite video upgrade
 + Reversible 16K RAM upgrade
++ Full cleaning inside and out
++ Paint touch ups
+
+And here is the final result:
+
+![side](img_010.jpg)
+
+![back](img_011.jpg)
+
+![top](img_009.jpg)
 
 # Inspection
 Here are some pictures of the computer as I purchased it:
