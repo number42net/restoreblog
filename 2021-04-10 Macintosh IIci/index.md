@@ -4,9 +4,11 @@ This computer belongs to a customer who requested a full recap and floppy drive 
 #### Work done so far
 + Replace capacitors from main board and power supply
 + Clean main board and power supply
++ Clean and lubricate floppy drive
++ Failed repair attempt of the floppy drive
 
 #### Planned work
-+ Clean and lubricate floppy drive.
++ Full diagnostic run for several hours of burn in
 
 # Initial inspection
 Here is the case opened up and the board removed:
@@ -38,7 +40,7 @@ A few suspect traces were found, these will be cleaned, tinned and protected wit
 
 And here is the finished result, the old electrolytic capacitors have been replaced with tantalum versions, bad traces have been repaired, the whole board has been thoroughly cleaned and a new battery fitted:
 
-![Logic board finished](img_015.jpg)
+![Logic board completed](img_021.jpg)
 
 Here is the machine powered:
 
@@ -64,7 +66,15 @@ Here are all the capacitors removed:
 
 ![Power supply removed](img_014.jpg)
 
-Unfortunately I forgot to take a picture of the power supply with the new capacitors installed, I will add this later.
+And the following are pictures of the power supply being re-assembled with the new capacitors, aside from the electrolytics I also replaced 4 Rifa capacitors which can cause a lot of problems:
+
+![PSU main board](img_023.jpg)
+
+![PSU main board 2](img_024.jpg)
+
+![PSU case board](img_022.jpg)
+
+![PSU case ready](img_025.jpg)
 
 # Floppy drive
 The floppy drive was particularly bad, there was a huge amount of caked on dirt inside:
@@ -81,4 +91,10 @@ And the same parts cleaned:
 
 ![Cleaned parts](img_020.jpg)
 
-What is left is just re-assembling and fully lubricating the mechanism.
+Here it is reassembled, but unfortunately I found more problems while testing. Whenever a floppy is inserted, it is ejected straight away again. 
+
+![Floppy reassembled](img_026.jpg)
+
+I ended up testing with a head assembly from another drive, which worked perfectly. After this I measured the resistance between the pins on each of the header cables. I found that on a known good head assembly all the pins had a small amount of resistance between them, while the bad heads tested open circuit on several pins.
+
+![Floppy drive issues](img_027.jpg)
