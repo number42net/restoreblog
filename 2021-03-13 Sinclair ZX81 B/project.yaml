@@ -1,12 +1,13 @@
 project:
   published: true
   name: Sinclair ZX81 B
-  status: In progress
+  status: Completed
   start_date: "2021-03-13"
-  thumbnail: img_001.jpg
+  thumbnail: img_011.jpg
   description:
-    - "Issue 1 / 2C184E ULA / Dual RAM ICs"
+    - "Issue 1 / 2C184E ULA / Single RAM IC"
     - ""
     - "+ Composite mod"
     - "+ Faulty Z80 CPU"
     - "+ Broken keyboard membrane"
+    - "+ 16K ram upgrade"
