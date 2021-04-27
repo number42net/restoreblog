@@ -6,8 +6,6 @@ This computer belongs to a customer who requested a full recap and floppy drive 
 + Clean main board and power supply
 + Clean and lubricate floppy drive
 + Failed repair attempt of the floppy drive
-
-#### Planned work
 + Full diagnostic run for several hours of burn in
 
 # Initial inspection

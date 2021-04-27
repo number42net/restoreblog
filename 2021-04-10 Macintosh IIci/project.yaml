@@ -1,7 +1,7 @@
 project:
-  published: false
+  published: true
   name: Macintosh II/ci
-  status: In progress
+  status: Completed
   start_date: "2021-04-10"
   thumbnail: img_009.jpg
   description:
