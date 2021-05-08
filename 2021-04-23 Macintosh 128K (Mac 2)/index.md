@@ -56,9 +56,13 @@ The flyback was initially whining quite badly before adjusting the cut-off poten
 
 ![Cracking flyback](img_020.jpg)
 
-Here it is on the first boot attempt, it wasn't able to boot off of the floppy. I will test with another floppy soon.
+Here it is on the first boot attempt, it wasn't able to boot off of the floppy.
 
 ![Nearly booted](img_021.jpg)
+
+Unfortunately the next day the computer wouldn't start at all anymore, only showing a blank screen. The flyback was quite noisy again, except when touching the analoug board, which would indicate cracked solder joints.
+
+After touching up all the bad looking and likely 
 
 # Floppy drive:
 
