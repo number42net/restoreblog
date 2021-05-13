@@ -1,0 +1,11 @@
+project:
+  published: true
+  name: Macintosh Color Classic
+  status: In progress
+  start_date: "2021-04-23"
+  thumbnail: img_002.jpg
+  description:
+    - "Repair job"
+    - ""
+    - "+ Replace capacitors"
+    - "+ Floppy drive refurbishment"
