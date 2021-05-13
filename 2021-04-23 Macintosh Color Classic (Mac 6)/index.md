@@ -1,4 +1,4 @@
-# Macintosh 128K
+# Macintosh Color Classic
 This computer belongs to a customer, the request was to check the machine and perform any repairs necessary. Because of the type of the capacitors used there's quite a few that need to be replaced on the logic and analogue boards.
 
 #### Work done so far

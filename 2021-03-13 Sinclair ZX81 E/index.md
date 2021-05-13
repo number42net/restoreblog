@@ -5,8 +5,6 @@ I purchased this ZX81 in a lot together with several other computers, RAM expans
 
 # Inspection and initial troubleshooting:
 
-This ZX81 was showing a completely blank screen on power up and after some troubleshooting I found the ULA to be faulty.
-
 ![Top](img_001.jpg)
 
 ![Bottom](img_002.jpg)
