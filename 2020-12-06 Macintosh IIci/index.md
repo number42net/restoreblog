@@ -23,10 +23,10 @@ And depending on what kind of hardware I'm able to find:
 
 + Full deep clean inside and out
 + Floppy drive cleaning and lubrication
++ Replace electrolytic capacitors
 
 ## Planned work: 
 
-+ Replace electrolytic capacitors
 + SCSI2SD conversion
 + RAM upgrades
 
@@ -47,6 +47,10 @@ The capacitors had leaked quite badly on this board, damaging several traces. Th
 Here is the board fully cleaned up, all elecrolytic capacitors removed and traces repaired.
 
 ![Board cleaned](img_004.jpg)
+
+And here it is with all of the capacitors replaced:
+
+![New caps](img_005.jpg)
 
 # SCSI2SD conversion
 
