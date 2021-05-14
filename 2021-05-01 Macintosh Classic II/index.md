@@ -8,10 +8,21 @@ I purchased this computer locally as faulty, when powered on it only showed whit
 * Logic board capacitor replacement
 * Analog board capacitors tested
 * Keyboard and mouse fully cleaned
+* Battery replacement
 
-##### Planned work:
+# Final pictures
 
-* Fully reversible external battery modification
+Here are some pictures of the computer fully completed:
+
+![Front](img_013.jpg)
+
+![Keyboard](img_014.jpg)
+
+![Left](img_015.jpg)
+
+![Right](img_016.jpg)
+
+![Back](img_017.jpg)
 
 # Exterior inspection:
 
