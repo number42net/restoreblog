@@ -1,0 +1,10 @@
+project:
+  published: false
+  name: "Macintosh 128K (Mac 1)"
+  status: In progress
+  start_date: "2021-04-23"
+  thumbnail: img_001.jpg
+  description: 
+    - "Short description"
+    - ""
+    - "- List item 1"
