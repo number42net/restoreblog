@@ -1,6 +1,8 @@
 project:
   published: true
   name: Macintosh LC
+  manufacturer: Apple
+  type: Computer
   status: On hold
   start_date: "2021-02-15"
   thumbnail: img_001.jpg

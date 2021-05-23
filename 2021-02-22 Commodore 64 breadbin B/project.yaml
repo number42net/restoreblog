@@ -1,6 +1,8 @@
 project:
   published: true
   name: Commodore 64 breadbin B
+  manufacturer: Commodore
+  type: Computer
   status: Completed
   start_date: "2021-02-22"
   thumbnail: img_020.jpg

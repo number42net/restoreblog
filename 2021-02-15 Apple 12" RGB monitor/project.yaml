@@ -1,6 +1,8 @@
 project:
   published: true
   name: Apple 12" RGB monitor (M1296)
+  manufacturer: Apple
+  type: Monitor
   status: Completed
   start_date: "2021-02-15"
   thumbnail: img_001.jpg

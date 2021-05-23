@@ -1,6 +1,8 @@
 project:
   published: true
   name: Macintosh Classic II
+  manufacturer: Apple
+  type: Computer
   status: Completed
   start_date: "2021-05-01"
   thumbnail: img_013.jpg

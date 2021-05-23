@@ -1,6 +1,8 @@
 project:
   published: true
   name: Macintosh II/ci
+  manufacturer: Apple
+  type: Computer
   status: Completed
   start_date: "2021-04-10"
   thumbnail: img_009.jpg

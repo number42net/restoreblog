@@ -1,6 +1,8 @@
 project:
   published: true
   name: Acorn BBC Micro model B
+  manufacturer: Acorn
+  type: Computer
   status: On hold
   start_date: "2021-04-02"
   last_update: "2021-04-19"

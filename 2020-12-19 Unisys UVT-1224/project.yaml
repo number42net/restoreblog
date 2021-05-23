@@ -1,6 +1,8 @@
 project:
   published: true
   name: Unisys UVT-1224
+  manufacturer: Unisys
+  type: Terminal
   status: On hold
   start_date: "2020-20-19"
   thumbnail: img_001.jpg

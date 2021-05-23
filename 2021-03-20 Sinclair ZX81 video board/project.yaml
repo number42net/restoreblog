@@ -1,6 +1,8 @@
 project:
   published: true
   name: Sinclair ZX81 video board
+  manufacturer: Retro.Engineer
+  type: Other
   status: Completed
   start_date: "2021-03-20"
   thumbnail: img_009.png

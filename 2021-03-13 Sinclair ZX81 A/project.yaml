@@ -1,6 +1,8 @@
 project:
   published: true
   name: Sinclair ZX81 A
+  manufacturer: Sinclair
+  type: Computer
   status: Completed
   start_date: "2021-03-13"
   thumbnail: img_011.jpg

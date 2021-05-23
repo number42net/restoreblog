@@ -1,0 +1,114 @@
+.PAGE 'WESRAM'
+;===========================================
+;   ZERO PAGE
+;===========================================
+
+	*=2
+
+SCORE	*=*+3
+HSCORE	*=*+3
+SCANFL	*=*+1
+WK0	*=*+1
+WK1	*=*+1
+WK2	*=*+1
+WK3	*=*+1
+WK4	*=*+1
+WK5	*=*+1
+WK6	*=*+1
+WK7	*=*+1
+WK8	*=*+1
+WK9	*=*+1
+KOLOR	*=*+1
+EXPCL	*=*+8           ;EXPANDER CICLE
+WOLFCL	*=*+1           ;WOLF CICLE
+DIW0	*=*+1           ;SPRITE LIVE FLAG
+DIW1	*=*+1           ;
+DIW2	*=*+1
+DIW3	*=*+1
+DIW4	*=*+1
+DIW5	*=*+1
+DIW6	*=*+1
+DIW7	*=*+1
+CLW	*=*+1           ;ENEMYS NOKORI
+DIWS	*=*+1           ;WOLF NOKORI
+PLRST	*=*+1           ;PLAYER NOKORI
+SPUP	*=*+1           ;SPEED UP FLAG
+TIMSL	*=*+1           ;TIMER LIMIT COUNTER
+TIMER1	*=*+1
+FIRE	*=*+1           ;INPUT FIRE FLAG
+PLDRCF	*=*+1           ;PLAYER BEEM DIRCTION
+PLDRF	*=*+1           ;PLAYER DIRCTION FLAG
+PBMCHR	*=*+1
+DRSPNA	*=*+1           ;DIRCTION SUB ROUTINE FLAG
+DRSPNB	*=*+1
+DRCF	*=*+1
+DRBEMX	*=*+1
+DRBEMY	*=*+1
+SVDRCF	*=*+1
+DISX	*=*+1           ;1 CHRACTER PRINT SUB
+DISY	*=*+1
+DISCHR	*=*+1
+ADLS	*=*+2           ;ADDRESS TABLE
+PATURN	*=*+1           ;SCREEN COUNT
+POINX	*=*+1           ;SCREEN SETTING ROUTINE FLAG
+POINY	*=*+1
+COUNT	*=*+1
+CHCADX	*=*+1           ;ONE CHRCTER SET SUB
+CHCADY	*=*+1
+CHCSPN	*=*+1
+SCRCIC	*=*+1
+DRCCI	*=*+1
+XINDEC	*=*+1           ;ADDRESS  TABLE
+YINDEC	*=*+1
+INDRCF	*=*+1
+KABAS	*=*+1
+THFTS	*=*+1
+GANOS	*=*+1
+BASAS	*=*+1
+GABAF	*=*+1
+WATCHR	*=*+1
+SV07F8	*=*+8
+COLLSS	*=*+1           ;CRASH SPRITE TO SPRITE
+COLLSC	*=*+1           ;CRASH SPRITE TO CHRCTER
+ENPUT	*=*+8
+WOCONT	*=*+8           ;WOLF MOVE COUNTOR
+WODRF	*=*+8           ;WOLF SAVE DIRCTION
+
+SNDSEL	*=*+1
+SNDIDX	*=*+2
+SNDTIM	*=*+1
+LASER	*=*+1
+BOMBFL	*=*+1
+EXPLOD	*=*+1
+XTRA	*=*+1
+
+
+;======================================
+;       FIX   DATA
+;======================================
+
+SP0SET	=%00000001              ;SET SPRITE
+SP1SET	=%00000010
+SP2SET	=%00000100
+SP3SET	=%00001000
+SP4SET	=%00010000
+SP5SET	=%00100000
+SP6SET	=%01000000
+SP7SET	=%10000000
+
+SP0RES	=%11111110              ;RESET SPRITE
+SP1RES	=%11111101
+SP2RES	=%11111011
+SP3RES	=%11110111
+SP4RES	=%11101111
+SP5RES	=%11011111
+SP6RES	=%10111111
+SP7RES	=%01111111
+
+DIES	=$FF            ;DIE ACTIVE DATA
+UP	=1
+DOWN	=2
+LEFT	=3
+RIGHT	=4
+
+.END

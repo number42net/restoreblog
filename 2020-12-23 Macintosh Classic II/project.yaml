@@ -1,6 +1,8 @@
 project:
   published: true
   name: Macintosh Classic II
+  manufacturer: Apple
+  type: Computer
   status: In progress
   start_date: "2020-20-30"
   thumbnail: img_001.jpg

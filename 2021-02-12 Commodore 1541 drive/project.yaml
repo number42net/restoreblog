@@ -1,6 +1,8 @@
 project:
   published: true
   name: Commodore 1541 drive
+  manufacturer: Commodore
+  type: Floppy drive
   status: Completed
   start_date: "2021-02-12"
   thumbnail: img_001.jpg

@@ -1,6 +1,8 @@
 project:
   published: true
   name: Macintosh Color Classic
+  manufacturer: Apple
+  type: Computer
   status: In progress
   start_date: "2021-01-14"
   thumbnail: img_001.jpg

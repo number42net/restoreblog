@@ -1,6 +1,8 @@
 project:
   published: true
   name: Sharp PC-1251
+  manufacturer: Sharp
+  type: Computer
   status: Completed
   start_date: "2021-01-16"
   thumbnail: img_019.jpg

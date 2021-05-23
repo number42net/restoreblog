@@ -1,6 +1,8 @@
 project:
   published: true
   name: Commodore 1541c
+  manufacturer: Commodore
+  type: Floppy drive
   status: On hold
   start_date: "2021-02-23"
   thumbnail: img_001.jpg
