@@ -9,6 +9,5 @@ project:
   description:
     - "Issue 1 / 2C210E ULA / Dual RAM ICs"
     - ""
-    - "+ Composite mod"
-    - "+ Faulty ULA"
-    - "+ Bad keyboard membrane"
+    - "+ Faulty ULA replaced with vLA81"
+    - "+ 16K ram upgrade"
