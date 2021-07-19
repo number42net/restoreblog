@@ -3,7 +3,7 @@ project:
   name: Sinclair ZX81 C
   manufacturer: Sinclair
   type: Computer
-  status: In progress
+  status: Completed
   start_date: "2021-03-13"
   thumbnail: img_007.jpg
   description:
