@@ -15,13 +15,17 @@ A lot of people make destructive modifications to these computers, but I like to
 
 And here is the final result:
 
-![Screen](img_005.jpg)
-
 ![Top](img_007.jpg)
 
 ![Side](img_008.jpg)
 
 ![Back](img_009.jpg)
+
+![Screen](img_005.jpg)
+
+Here is the final board, showing the original factory ROM modification (likely done due to part shortages) next to my 16K memory upgrade and the vLA81 board.
+
+![Board](img_010.jpg)
 
 # Inspection and initial troubleshooting:
 
